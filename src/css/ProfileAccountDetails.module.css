@@ -1,0 +1,23 @@
+.paper {
+    padding: 16px;
+    margin-top: 16px;
+  }
+  
+  .title {
+    margin-bottom: 16px;
+    color: #228be6;
+  }
+  
+  .balance {
+    font-size: 24px;
+    font-weight: 700;
+    color: #40c057;
+  }
+  
+  .copyIcon {
+    cursor: pointer;
+  }
+  
+  .copyIcon:hover {
+    color: #228be6;
+  }
